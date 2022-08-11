@@ -19,7 +19,7 @@ I'm also the founder of [pH7's Social Dating Builder](https://github.com/pH7Soft
 
 ## Setting Up
 
-1. Make sure you have npm v6 or newer installed (by installing [NodeJS](https://nodejs.org/en/download).
+1. Make sure you have npm v6 or newer installed (by installing [NodeJS](https://nodejs.org/en/download)).
 2. Run `npm ci` to install all dependencies.
 3. `npm start` to start your React client application.
 
