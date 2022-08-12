@@ -6,6 +6,9 @@ This ReactJS webapp was bootstrapped thanks to [Create React App](https://github
 ## Video
 
 
+## Preview
+
+![Cat API WebApp project - Homepage example](homepage-cat-api-webapp-example.png)
 
 ## Author
 
