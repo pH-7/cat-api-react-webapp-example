@@ -8,7 +8,9 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 *Lean how to build a simple ReactJS app 🚀*
 
-<!-- VIDEO HERE -->
+<!-- VIDEO PART 1 HERE -->
+
+<!-- VIDEO PART 2 HERE -->
 
 ## Preview
 
