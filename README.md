@@ -1,10 +1,14 @@
 # Simple React WebApp - TheCatAPI
 
-
 This ReactJS webapp was bootstrapped thanks to [Create React App](https://github.com/facebook/create-react-app).
+
+The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) and [TheCatAPI](https://thecatapi.com) service 😺
 
 ## Video
 
+*Lean how to build a simple ReactJS app 🚀*
+
+<!-- VIDEO HERE -->
 
 ## Preview
 
