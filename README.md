@@ -21,6 +21,7 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
 
+
 ## 🖼 Preview
 
 ![Cat API WebApp project - Homepage example](homepage-cat-api-webapp-example.png)
