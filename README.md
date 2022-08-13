@@ -4,7 +4,7 @@ This ReactJS webapp was bootstrapped thanks to [Create React App](https://github
 
 The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) and [TheCatAPI](https://thecatapi.com) service 😺
 
-## Video
+## Videos 📺
 
 *Lean how to build a simple ReactJS app 🚀*
 
