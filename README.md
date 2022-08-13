@@ -8,9 +8,18 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 *Lean how to build a simple ReactJS app 🚀*
 
-<!-- VIDEO PART 1 HERE -->
+### Part 1
 
-<!-- VIDEO PART 2 HERE -->
+[![Watch the video][video1-thumbnail]](https://www.youtube.com/watch?v=kUR3XAFR3K0)
+
+👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=kUR3XAFR3K0)**
+
+
+### Part 2
+
+[![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=d0IHEn5GeGU)
+
+👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
 
 ## Preview
 
@@ -18,12 +27,11 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 ## Author
 
-I'm [Pierre-Henry Soria](http://ph7.me/about-me/), a SUPER Passionate, enthusiasm software engineer 🤖
+I'm [Pierre-Henry Soria](http://ph7.me), a SUPER Passionate, enthusiastic software engineer 🤖
 
 I love reading too (non-fiction books), and learning new things every single day!
 
-I also post on a daily basis at [Daily Learning Habit](https://dailylearninghabit.com), new interesting and short thoughts about what I learnt during the day, or the past few days in order to share with others (and learn more efficiency what I just read/heard).
-I'm also the founder of [pH7's Social Dating Builder](https://github.com/pH7Software/pH7-Social-Dating-CMS) and hundreds of open source projects too 😊 (a  few are available [here](https://github.com/pH-7?tab=repositories) on my GitHub profile).
+I'm also the founder of [pH7's Social Dating Builder](https://github.com/pH7Software/pH7-Social-Dating-CMS) and hundreds of other open source projects like [Lifyzer, Healthy Food](https://github.com/Lifyzer) and [others](https://github.com/pH-7?tab=repositories).
 
 
 ## Setting Up
@@ -44,4 +52,8 @@ I'm [Pierre-Henry Soria](https://ph7.me). A **super passionate** Belgian **softw
 
 Distributed under [MIT](https://opensource.org/licenses/MIT) license 🎉
 
+
+<!-- GitHub's Markdown reference links -->
+[video1-thumbnail]: https://i1.ytimg.com/vi/kUR3XAFR3K0/maxresdefault.jpg
+[video2-thumbnail]: https://i1.ytimg.com/vi/d0IHEn5GeGU/maxresdefault.jpg
 
