@@ -1,11 +1,11 @@
+import { API_KEY, API_URL } from "../constants/appDetails";
 import CatDetails from "./CatDetails";
 import { useEffect, useState } from "react";
 import { Col, Container, Row, Spinner } from "react-bootstrap";
 
 const Cats = () => {
   const maximumCatsPerPage = 20;
-  const apiUrl = `https://api.thecatapi.com/v1/images/search?breed_ids=beng&limit=${maximumCatsPerPage}`;
-  const apiKey = "cc87643e-9491-43ec-a884-5bfb536d96c4";
+  const apiUrl = `${API_URL}images/search?breed_ids=beng&limit=${maximumCatsPerPage}`;
 
   const [cats, setCats] = useState({});
   const [isLoading, setIsLoading] = useState(false);
@@ -13,7 +13,7 @@ const Cats = () => {
   const requestCats = async () => {
     const headers = {
       "Content-Type": "application/json",
-      "x-api-key": apiKey,
+      "x-api-key": API_KEY,
     };
 
     setIsLoading(true);
