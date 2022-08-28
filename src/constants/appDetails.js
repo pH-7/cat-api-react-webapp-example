@@ -4,4 +4,4 @@ export const AUTHOR_WEBSITE = 'https://ph7.me';
 
 // TheCatAPI's Details
 export const API_URL = 'https://api.thecatapi.com/v1/';
-export const API_KEY = '';
+export const API_KEY = 'YOUR_API_KEY_HERE';
