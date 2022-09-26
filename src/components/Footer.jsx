@@ -1,7 +1,6 @@
 import {Col, Container, Row} from "react-bootstrap";
 
 const Footer = () => {
-
     return (
         <Container className='justify-content-center mt-5 mb-5'>
             <hr />
