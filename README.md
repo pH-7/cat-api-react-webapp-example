@@ -23,7 +23,7 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 ### Part 3
 
-[![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=e4Z5AhreKTc)
+[![Watch the video][video3-thumbnail]](https://www.youtube.com/watch?v=e4Z5AhreKTc)
 
 👉 **[Click here to watch on YouTube, live coding, part 3](https://www.youtube.com/watch?v=e4Z5AhreKTc)**
 
@@ -59,4 +59,6 @@ Distributed under [MIT](https://opensource.org/licenses/MIT) license 🎉
 <!-- GitHub's Markdown reference links -->
 [video1-thumbnail]: https://i1.ytimg.com/vi/kUR3XAFR3K0/maxresdefault.jpg
 [video2-thumbnail]: https://i1.ytimg.com/vi/d0IHEn5GeGU/maxresdefault.jpg
+[video3-thumbnail]: https://i1.ytimg.com/vi/e4Z5AhreKTc/maxresdefault.jpg
+
 
