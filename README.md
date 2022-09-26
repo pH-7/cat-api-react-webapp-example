@@ -18,7 +18,14 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 [![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=d0IHEn5GeGU)
 
-👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
+👉 **[Click here to watch on YouTube, live coding, part 2](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
+
+
+### Part 3
+
+[![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=e4Z5AhreKTc)
+
+👉 **[Click here to watch on YouTube, live coding, part 3](https://www.youtube.com/watch?v=e4Z5AhreKTc)**
 
 
 ## 🖼 Preview
