@@ -22,8 +22,8 @@ const Cats = () => {
       const apiResponse = await fetch(apiUrl, { headers });
       const jsonResult = await apiResponse.json();
 
-      // Loging for debugging
-      console.log(jsonResult);
+      // Logging for debugging
+      console.log('cats result', jsonResult);
 
       setCats(jsonResult);
       setIsLoading(false);
