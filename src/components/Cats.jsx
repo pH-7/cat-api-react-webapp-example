@@ -16,9 +16,9 @@ const Cats = () => {
       "x-api-key": API_KEY,
     };
 
-    setIsLoading(true);
-
     try {
+      setIsLoading(true);
+
       const apiResponse = await fetch(apiUrl, { headers });
       const jsonResult = await apiResponse.json();
 
@@ -26,9 +26,10 @@ const Cats = () => {
       console.log('cats result', jsonResult);
 
       setCats(jsonResult);
-      setIsLoading(false);
     } catch (error) {
       console.error(error.message);
+    } finally {
+      setIsLoading(false);
     }
   };
 
