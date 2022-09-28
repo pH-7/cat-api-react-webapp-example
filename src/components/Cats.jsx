@@ -7,7 +7,7 @@ const Cats = () => {
   const maximumCatsPerPage = 20;
   const apiUrl = `${API_URL}images/search?breed_ids=beng&limit=${maximumCatsPerPage}`;
 
-  const [cats, setCats] = useState({});
+  const [cats, setCats] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
 
   const requestCats = async () => {
@@ -43,7 +43,7 @@ const Cats = () => {
         <Row className="justify-content-center">
           {isLoading ? (
             <Spinner animation="grow" />
-          ) : (
+          ) : cats ? (
             <>
               {Object.values(cats).map((cat) => (
                 <Col key={cat.id} md={3} className="p-1">
@@ -51,6 +51,10 @@ const Cats = () => {
                 </Col>
               ))}
             </>
+           ) : (
+            <h3 className='text-center text-danger fw-bold'>
+              Impossible to retrieve cats
+            </h3>
           )}
         </Row>
       </Container>
