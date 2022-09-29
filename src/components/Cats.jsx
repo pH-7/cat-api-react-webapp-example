@@ -23,7 +23,7 @@ const Cats = () => {
       const jsonResult = await apiResponse.json();
 
       // Logging for debugging
-      console.log('cats result', jsonResult);
+      console.log("cats result", jsonResult);
 
       setCats(jsonResult);
     } catch (error) {
@@ -51,8 +51,8 @@ const Cats = () => {
                 </Col>
               ))}
             </>
-           ) : (
-            <h3 className='text-center text-danger fw-bold'>
+          ) : (
+            <h3 className="text-center text-danger fw-bold">
               Impossible to retrieve cats
             </h3>
           )}
