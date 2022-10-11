@@ -42,7 +42,7 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 ## 🧑‍🎨 Author
 
-I'm [Pierre-Henry Soria](https://ph7.me), a SUPER Passionate, enthusiastic software engineer 🤖
+I'm [Pierre-Henry Soria](https://ph7.me), a SUPER passionate and enthusiastic software engineer 🤖
 
 I love reading too (non-fiction books), and learning new things every single day!
 
