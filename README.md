@@ -42,13 +42,13 @@ The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstra
 
 ## 🧑‍🎨 Author
 
+[![Pierre-Henry Soria](https://avatars.githubusercontent.com/u/1325411?s=150)](https://ph7.me 'Pierre-Henry Soria website')
+
 I'm [Pierre-Henry Soria](https://ph7.me), a SUPER passionate and enthusiastic software engineer 🤖
 
 I love reading too (non-fiction books), and learning new things every single day!
 
 I'm also the founder of [pH7's Social Dating Builder 🚀](https://github.com/pH7Software/pH7-Social-Dating-CMS) and hundreds of other open source projects like [Lifyzer, Healthy Food 🍍](https://github.com/Lifyzer) and [others](https://github.com/pH-7?tab=repositories).
-
-[![Pierre-Henry Soria](https://avatars.githubusercontent.com/u/1325411?s=200)](https://ph7.me 'Pierre-Henry Soria website')
 
 [![LinkedIn][linkedin-image]](https://www.linkedin.com/in/ph7enry/ "Pierre-Henry Soria - Connect on LinkedIn") [![pH-7][github-image]](https://github.com/pH-7 "Follow Me on GitHub") [![@phenrysay][twitter-image]](https://twitter.com/phenrysay "Follow Me on Twitter")
 
