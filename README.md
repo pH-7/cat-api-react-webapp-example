@@ -3,31 +3,6 @@
 The app uses [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) and [TheCatAPI](https://thecatapi.com) service 😺
 
 
-## 📺 Videos
-
-*Lean how to build a simple ReactJS app 🚀*
-
-### Part 1
-
-[![Watch the video][video1-thumbnail]](https://www.youtube.com/watch?v=kUR3XAFR3K0)
-
-👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=kUR3XAFR3K0)**
-
-
-### Part 2
-
-[![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=d0IHEn5GeGU)
-
-👉 **[Click here to watch on YouTube, live coding, part 2](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
-
-
-### Part 3
-
-[![Watch the video][video3-thumbnail]](https://www.youtube.com/watch?v=e4Z5AhreKTc)
-
-👉 **[Click here to watch on YouTube, live coding, part 3](https://www.youtube.com/watch?v=e4Z5AhreKTc)**
-
-
 ## 🖼 Preview
 
 ![Cat API WebApp project - Homepage example](homepage-cat-api-webapp-example.png)
@@ -51,6 +26,31 @@ I love reading too (non-fiction books), and learning new things every single day
 I'm also the founder of [pH7's Social Dating Builder 🚀](https://github.com/pH7Software/pH7-Social-Dating-CMS) and hundreds of other open source projects like [Lifyzer, Healthy Food 🍍](https://github.com/Lifyzer) and [others](https://github.com/pH-7?tab=repositories).
 
 [![LinkedIn][linkedin-image]](https://www.linkedin.com/in/ph7enry/ "Pierre-Henry Soria - Connect on LinkedIn") [![pH-7][github-image]](https://github.com/pH-7 "Follow Me on GitHub") [![@phenrysay][twitter-image]](https://twitter.com/phenrysay "Follow Me on Twitter")
+
+
+## 📺 Videos
+
+*Lean how to build a simple ReactJS app 🚀*
+
+### Part 1
+
+[![Watch the video][video1-thumbnail]](https://www.youtube.com/watch?v=kUR3XAFR3K0)
+
+👉 **[Click here to watch on YouTube, live coding, part 1](https://www.youtube.com/watch?v=kUR3XAFR3K0)**
+
+
+### Part 2
+
+[![Watch the video][video2-thumbnail]](https://www.youtube.com/watch?v=d0IHEn5GeGU)
+
+👉 **[Click here to watch on YouTube, live coding, part 2](https://www.youtube.com/watch?v=d0IHEn5GeGU)**
+
+
+### Part 3
+
+[![Watch the video][video3-thumbnail]](https://www.youtube.com/watch?v=e4Z5AhreKTc)
+
+👉 **[Click here to watch on YouTube, live coding, part 3](https://www.youtube.com/watch?v=e4Z5AhreKTc)**
 
 
 ## ⚖️ License
